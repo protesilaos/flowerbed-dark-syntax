@@ -1,16 +1,21 @@
 # Flowerbed syntax theme (dark variant)
 
-Medium contrast theme inspired by flowers. Cyan is the most prevalent accent, followed by green, magenta, violet, and blue.
+Medium contrast theme inspired by flowers. The most prevalent colours are cyan, green, magenta, violet, and blue.
 
-*Flowerbed* comes in separate light and dark variants.
+*Flowerbed* comes in separate light and dark variants (see further info below).
 
-## Screenshot
+## Screenshots
 
-![flowerbed dark screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/flowerbed/img/flowerbed_dark_sample.png)
+![flowerbed dark screenshot html](https://raw.githubusercontent.com/protesilaos/prot16/master/flowerbed/img/flowerbed_dark_html.png)
 
-*The font is [Iosevka term slab](https://github.com/be5invis/Iosevka)*.  
-*JavaScript demo is source code of [prismjs](http://prismjs.com/)*  
-*The UI is my experimental fork of the default One Dark*.
+![flowerbed dark screenshot scss](https://raw.githubusercontent.com/protesilaos/prot16/master/flowerbed/img/flowerbed_dark_scss.png)
+
+![flowerbed dark screenshot js](https://raw.githubusercontent.com/protesilaos/prot16/master/flowerbed/img/flowerbed_dark_js.png)
+
+![flowerbed dark screenshot md](https://raw.githubusercontent.com/protesilaos/prot16/master/flowerbed/img/flowerbed_dark_md.png)
+
+*The font is [Iosevka term](https://github.com/be5invis/Iosevka)*.  
+*The UI is [Atom Material](https://github.com/atom-material/atom-material-ui)*.
 
 ## Download
 
